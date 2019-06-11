@@ -1,1 +1,11 @@
+# Site settings
+title: Ismaël Aliouat
+email: ismaelaliouat@gmail.com
+description: Hi, I'm Ismaël Aliouat
+baseurl: "cool" # the subpath of your site, e.g. /blog/
+url: "http://ismaelalt.github.com" # the base hostname & protocol for your site
 theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
