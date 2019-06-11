@@ -1,9 +1,9 @@
+theme: jekyll-theme-cayman
+
 # Site settings
 title: Ismaël Aliouat
 email: ismaelaliouat@gmail.com
 description: Hi, I'm Ismaël Aliouat
-baseurl: "cool" # the subpath of your site, e.g. /blog/
-theme: jekyll-theme-cayman
 
 # Build settings
 markdown: kramdown
